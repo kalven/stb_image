@@ -1,0 +1,1 @@
+lib stb_image : stb_image.c : <link>static <toolset>msvc:<define>_CRT_SECURE_NO_DEPRECATE : : <include>. ;
